@@ -10,4 +10,3 @@ function incrementVariable() {
   return i += 1
 }
 
-function 
