@@ -9,4 +9,3 @@ function doWhileLoop(num) {
 function incrementVariable() {
   return i += 1
 }
-
